@@ -1,0 +1,3 @@
+Model,Test Accuracy,Test Loss
+Custom CNN,79.97,0.4622
+MobileNetV2,94.09,0.1681
