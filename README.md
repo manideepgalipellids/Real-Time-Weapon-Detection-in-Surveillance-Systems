@@ -12,15 +12,6 @@ The project uses a Custom Convolutional Neural Network (CNN) and MobileNetV2 Tra
 
 ---
 
-## Student Information
-
-**Student Name:** Galipelli Manideep
-**University:** University of Europe for Applied Sciences
-**Course:** PS26 - DSC01 Machine Learning 90
-**Professor:** Raja Hashim Ali
-
----
-
 ## Objectives
 
 The main objective of this project is to develop an intelligent surveillance-based weapon detection system capable of identifying dangerous objects in real time to improve public safety and reduce manual monitoring efforts.
