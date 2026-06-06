@@ -1,0 +1,20 @@
+DATASET LINKS
+
+1. Guns and Knives COCO Dataset
+   https://www.kaggle.com/datasets/iqmansingh/guns-knives-object-detection
+
+Purpose:
+Used for knife and pistol images.
+
+2. Human Detection Dataset
+   https://www.kaggle.com/datasets/constantinwerner/human-detection-dataset
+
+Purpose:
+Used for no-weapon images.
+
+Final Dataset:
+The datasets were merged and organized into three classes:
+
+1. Knife
+2. Pistol
+3. No Weapon
